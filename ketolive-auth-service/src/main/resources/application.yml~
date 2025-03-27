@@ -7,7 +7,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/ketolive_auth
     username: postgres
-    password: postgres.2025
+    password: postgres
   jpa:
     hibernate:
       ddl-auto: update
